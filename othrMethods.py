@@ -1,0 +1,10 @@
+name = "suhail ahmed"
+length = len(name)
+print(name, length, name.find("a"), name.rfind("a"))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.isalpha())
+print(name.isnumeric())
+print(name.count("a"))
+print(name.replace("a", "A"))
