@@ -1,0 +1,12 @@
+{ __init__() }
+- Initialization method that is a constructor
+- two types of them
+    --> Default, Parameterized
+
+{Attr}
+Object Attr:
+    - self : used when different data for different objects eg, student name
+Class Attr:
+    - data which is common for all objs
+exception case:
+    - if both attributes have same name with different data then the obj attr has greater precedency than the calss attr
