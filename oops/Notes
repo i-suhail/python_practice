@@ -10,3 +10,11 @@ Class Attr:
     - data which is common for all objs
 exception case:
     - if both attributes have same name with different data then the obj attr has greater precedency than the calss attr
+
+
+M E T H O D S:
+---------------
+Static Methods:
+    - Which doesn't need the Self Parameter
+    - as self is used for each objs
+    - The methods which doesn't need objects, but direct working in the class level
